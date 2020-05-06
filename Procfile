@@ -1,1 +1,1 @@
-web: yarn startHeroku
+web: node src/server.js
